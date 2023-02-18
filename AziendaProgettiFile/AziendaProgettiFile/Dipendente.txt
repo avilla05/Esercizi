@@ -1,0 +1,2 @@
+1;informatico;15
+2;ingegnere;20
